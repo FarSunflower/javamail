@@ -54,8 +54,8 @@ public class ReceiveMail{
 
         String host = "pop.gmail.com";//change accordingly
         String mailStoreType = "pop3";
-        String username= "miray7773@gmail.com";//change accordingly
-        String password= "njpx qjue nprj nfiw";//change accordingly
+        String username= "xxx";//change accordingly
+        String password= "xxx";//change accordingly
 
         receiveEmail(host, mailStoreType, username, password);
 
